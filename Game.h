@@ -8,9 +8,6 @@ class Game {
     // Perform all operations required when a new game starts
     virtual void startGame();
 
-    // Check if the move from the last agent was valid
-    virtual bool isValidMove();
-
     // Notify agents about the move played by another agent
     virtual void broadcastMove();
 
@@ -19,10 +16,4 @@ class Game {
 
     // Display the board
     virtual void render();
-
-    // Check if the game is over
-    virtual bool isGameOver();
-
-    // Notify agents that the game has been ended
-    virtual void endGame();
 };
