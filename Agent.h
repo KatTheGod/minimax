@@ -8,5 +8,5 @@ class Agent {
     ~Agent();
 
     // Return a string that represents the move chosen by the agent
-    virtual std::string getMove();
+    virtual std::string getMove() { return ""; }
 };
