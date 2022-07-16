@@ -25,7 +25,7 @@ class TicTacToe : public Game {
 
     void step() override {}
 
-    // Display the current board position
+    // Display the current board state
     void render() override {
         for (int row = 0; row < BOARD_SIZE; row++) {
             for (int col = 0; col < BOARD_SIZE; col++) {
