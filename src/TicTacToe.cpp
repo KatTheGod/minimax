@@ -4,7 +4,7 @@
 #include "Game.h"
 
 class TicTacToe : public Game {
-  private:
+private:
     const static int BOARD_SIZE = 3; // Board dimension
     const static char EMPTY_POSITION =
         '_'; // Used to fill starting TicTacToe board
@@ -36,7 +36,7 @@ class TicTacToe : public Game {
         }
     }
 
-  public:
+public:
     TicTacToe() { initializeBoard(); }
 
     ~TicTacToe();
