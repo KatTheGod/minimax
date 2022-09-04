@@ -1,7 +1,7 @@
 #pragma once
 
 class Game {
-  public:
+public:
     Game();
     ~Game();
 

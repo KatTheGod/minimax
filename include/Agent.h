@@ -3,7 +3,7 @@
 #include <string>
 
 class Agent {
-  public:
+public:
     Agent();
     ~Agent();
 
