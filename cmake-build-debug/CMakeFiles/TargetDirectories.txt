@@ -1,0 +1,3 @@
+D:/Desktop/Extra_Coding/Search Algorithms/MinMax XnO/cmake-build-debug/CMakeFiles/MinMax_XnO.dir
+D:/Desktop/Extra_Coding/Search Algorithms/MinMax XnO/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Desktop/Extra_Coding/Search Algorithms/MinMax XnO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
